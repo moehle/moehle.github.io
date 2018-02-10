@@ -1,0 +1,17 @@
+= Stochastic Control
+Professor [http://www.stanford.edu/~boyd Stephen Boyd]\n
+Chinese University of Hong Kong (Shenzhen), February 2017\n
+Teaching assistants:
+[http://www.stanford.edu/~moehle Nicholas Moehle], Xinyue Shen
+
+== Lecture slides
+- [http://www.stanford.edu/~moehle/cuhksz/slides/intro.pdf Introduction]
+- [http://www.stanford.edu/~moehle/cuhksz/slides/det_sys.pdf Deterministic control]
+- [http://www.stanford.edu/~moehle/cuhksz/slides/mdp.pdf MDPs]
+- [http://www.stanford.edu/~moehle/cuhksz/slides/dp.pdf Dynamic programming]
+- [http://www.stanford.edu/~moehle/cuhksz/slides/lqr.pdf Linear quadratic control]
+- [http://www.stanford.edu/~moehle/cuhksz/slides/mpc.pdf Model predictive control]
+- [http://www.stanford.edu/~moehle/cuhksz/slides/risk_averse.pdf Risk-averse control]
+
+== Homework
+- [http://www.stanford.edu/~moehle/cuhksz/hw/hw1.pdf Homework 1]. due Feb.\ 14, in class.

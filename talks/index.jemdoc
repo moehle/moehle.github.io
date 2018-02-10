@@ -1,0 +1,92 @@
+= Nicholas Moehle
+
+~~~
+{}{img_left}{moehle.jpg}{Nicholas Moehle}{125px}{173px}{}
+
+Nicholas Moehle\n
+Ph.D. canditate\n
+[http://me.stanford.edu Department of Mechanical Engineering]\n
+[http://www.stanford.edu Stanford University]\n
+
+Advisor: [http://www.stanford.edu/~boyd Stephen Boyd]\n
+[moehle_resume.pdf Resume] (pdf)
+~~~
+
+== Contact
+moehle at stanford dot edu
+
+== Education
+- Ph.D., Mechanical Engineering, 
+[http://www.stanford.edu Stanford University], in progress 
+- M.S., Electrical Engineering, 
+[http://www.stanford.edu Stanford University], December 2014
+- B.S., Mechanical Engineering, 
+[http://www.berkeley.edu University of California, Berkeley], December 2010
+
+== Research
+My PhD research involves applying control theory and optimization 
+to energy management.
+
+# Some past projects:
+# - Dynamic vehicle routing ([papers/mod_poster.pdf poster])
+# - Statistical estimation for anomaly detection ([papers/cov_est.pdf paper])
+
+== Publications
+- [http://stanford.edu/~boyd/papers/opt_cap_res.html 
+  A Distributed Method for Optimal Capacity Reservation].
+  N. Moehle, X. Shen, Z.-Q. Luo, S. Boyd.  Working draft, 2017.
+- [http://stanford.edu/~boyd/papers/miqp_admm.html A Simple,
+  Effective Heuristic for Embedded Mixed-Integer Quadratic Programming].
+  R. Takapoui, N. Moehle, S. Boyd.  /International Journal of Control/, 2017.
+- [http://stanford.edu/~boyd/papers/osqp_embedded.html
+  Embedded Code Generation Using the OSQP Solver].
+  G. Banjac, B. Stellato, N. Moehle, P. Goulard, A. Bemporad, S. Boyd.
+  /Proceedings of the Conference on Decision and Control/, 2017.
+- [http://stanford.edu/~boyd/papers/pow_elec_ctrl.html
+  Value Function Approximation for Direct Control of Switched Power Converters].
+  N. Moehle, S. Boyd.
+  /Conf. on Industrial Electronics and Applications/, 2017.
+- [http://web.stanford.edu/~boyd/papers/dyn_ener_man.html 
+  Dynamic Energy Management with Scenario-Based Robust MPC].
+  M. Wytock, N. Moehle, S. Boyd. 
+  /American Control Conf/, 2017.
+- [http://stanford.edu/~boyd/papers/induc_motor.html
+  Maximum Torque-per-Current Control of Induction Motors via Semidefinite Programming].
+  N. Moehle, S. Boyd.
+  /Proceedings of the Conference on Decision and Control/, 2016.
+- [http://stanford.edu/~boyd/papers/sw_reluc_motor.html 
+  Optimal Current Waveforms for Switched-Reluctance Motors].
+  N. Moehle, S. Boyd.
+  /Proceedings of the Multi-Conference on Systems and Control/, 2016.
+- [http://stanford.edu/~boyd/papers/miqp_admm.html
+  A Simple Effective Heuristic for Embedded Mixed-Integer Quadratic Programming].
+  R. Takapoui, N. Moehle, S. Boyd, and A. Bemporad.
+  /Proceedings of the American Control Conference/, 2016.
+- [http://www.stanford.edu/~boyd/papers/sw_aff_ctrl.html
+  A Perspective-Based Convex Relaxation for Switched-Affine Optimal Control].
+  N. Moehle, S. Boyd.  /Systems and Control Letters/, 2015.
+- [http://www.stanford.edu/~boyd/papers/motor_current.html
+  Optimal Current Waveforms for Brushless Permanent Magnet Motors].
+  N. Moehle, S. Boyd.  /International Journal of Control/, 2015.
+- [papers/cov_est.pdf Covariance Estimation in Two-Level Regression].
+  N. Moehle, D. Gorinevsky.  /Proceedings of SysTol 2013/, 2013.
+
+== Teaching
+Principal instructor for:
+- [http://www.stanford.edu/class/ee364a Convex Optimization I] (EE364A), Summer 2016
+
+Teaching assistant for:
+- [http://www.stanford.edu/~moehle/cuhksz Stochastic Control] (short course), Winter 2017
+- [http://www.stanford.edu/class/ee364b Convex Optimization II] (EE364B), Spring 2014
+- [http://www.stanford.edu/class/ee364a Convex Optimization I] (EE364A), Winter 2014
+- [http://www.stanford.edu/class/ee263 Introduction to Linear Dynamical Systems] (EE263), Autumn 2013
+- Introduction to Optimal Control Theory (AA203), Spring 2013
+- Feedback Control Design (ENGR105), Winter 2013
+
+== Talks
+- [talks/codegen.pdf Embedded convex optimization with CVXPY]
+- [talks/motors.pdf Control of electric motors and drives via convex optimization]
+
+== Other
+- My [http://www.github.com/moehle github account]
+# - A list of [books.html academic books I like]
